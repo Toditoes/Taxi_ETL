@@ -1,0 +1,2 @@
+data/trip_data.csv filter=lfs diff=lfs merge=lfs -text
+data/trip_data.parquet filter=lfs diff=lfs merge=lfs -text
